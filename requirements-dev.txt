@@ -1,4 +1,4 @@
 file:./canonical_enricher_actions#egg=canonical_enricher_actions # via -r requirements-dev.in
 
 pytest==6.2.5
-PyYAML==3.13
+PyYAML==4.2b1
